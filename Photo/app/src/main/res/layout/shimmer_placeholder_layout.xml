@@ -5,7 +5,7 @@
     <data>
         <variable
             name="photo"
-            type="com.karan.testproject.models.Photo" />
+            type="com.varsha.testproject.models.Photo" />
 
     </data>
 
@@ -19,7 +19,7 @@
         <ImageView
             android:layout_width="match_parent"
             android:id="@+id/image_view"
-            android:background="@color/colorGrey"
+            android:background="@color/colorGray"
             android:scaleType="fitXY"
             android:layout_height="200dp" />
 
